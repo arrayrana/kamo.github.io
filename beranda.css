@@ -1,0 +1,91 @@
+@import url(https://db.onlinewebfonts.com/c/165b3175b1345c0eb8b4097f4d024455?family=Century);
+
+
+*, body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Century;
+}
+
+.body {
+    position: absolute;
+    background-color: rgb(56, 52, 52);
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.kata-kata {
+  width: 100%;
+  height: 90vh;
+}
+
+.pengenal {
+   margin: -210px  0 0 588px;
+   display: flex;
+   gap: 10px;
+   height: 165px;
+   width: 190px;
+  
+
+}
+
+/* .gambar {
+justify-content: center;
+align-items: center;
+display: flex;
+background-color: brown;
+
+} */
+
+.g1 {
+  margin: -607px 0 0 811px;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+
+.g2 {
+  margin: -275px 0 0 344px;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 11;
+}
+
+
+.g3 {
+  margin: 91px  0 0 -53px;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 12;
+}
+
+
+.g4 {
+  margin: -499px  0 0 567px;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 13;
+}
+
+
+/* .g5 {
+  margin: -499px  0 0 567px;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 14;
+} */
+
